@@ -63,6 +63,8 @@ for item in data:
     - IP-CIDR,192.238.178.136/24,DIRECT
     - DOMAIN-SUFFIX,jichengfz.top,DIRECT
     - IP-CIDR,106.13.113.119/32,DIRECT
+    - IP-CIDR,192.238.178.54/24,DIRECT
+    - IP-CIDR,45.192.218.143/24,DIRECT
 
     - DOMAIN,play-lh.googleusercontent.com,DIRECT
     - DOMAIN-KEYWORD,vmoscloud,DIRECT
