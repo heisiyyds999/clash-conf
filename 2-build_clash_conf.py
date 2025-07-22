@@ -1,0 +1,121 @@
+import os
+import json
+
+
+def build_template(host: str, port: int, username: str, password: str) -> str:
+    """"""
+    template = f"""port: 7890
+socks-port: 7891
+allow-lan: false
+mode: Rule
+log-level: info
+external-controller: 127.0.0.1:9090
+experimental:
+  ignore-resolve-fail: true 
+hosts:
+  "mtalk.google.com": 108.177.125.188
+
+proxies:
+
+  - name: 动态住宅
+    type: socks5
+    server: {host}
+    port: {port}
+    username: {username}
+    password: {password}
+proxy-groups:
+  - name: output
+    type: select
+    proxies:
+      - 动态住宅
+      - DIRECT
+# 规则
+rules:
+  - DOMAIN-SUFFIX,autonavi.com,DIRECT
+  - DOMAIN-SUFFIX,accounts.youtube.com,DIRECT
+  - DOMAIN-SUFFIX,www.bing.com,DIRECT
+  - DOMAIN-SUFFIX,firefox.fun,DIRECT
+  - DOMAIN-SUFFIX,yimg.com,DIRECT
+  - DOMAIN-SUFFIX,yahoo.com,DIRECT
+  - DOMAIN-SUFFIX,mail-ads.google.com,DIRECT
+  - DOMAIN-SUFFIX,dl.google.com,DIRECT
+  - DOMAIN-SUFFIX,gvt2.com,DIRECT
+  - DOMAIN-SUFFIX,gvt1.com,DIRECT
+  - DOMAIN-SUFFIX,gstatic.com,DIRECT
+  - DOMAIN-SUFFIX,dwmail.link,DIRECT
+  - DOMAIN-SUFFIX,api.haozhuma.com,DIRECT
+  - DOMAIN-SUFFIX,osss1.ikjkxy.fun,DIRECT
+  - DOMAIN-SUFFIX,flowframes.oss-cn-chengdu.aliyuncs.com,DIRECT
+  - DOMAIN-SUFFIX,saasvideo.cn,DIRECT
+  - DOMAIN-SUFFIX,iosvip.ieasyclick.net,REJECT
+  - DOMAIN-SUFFIX,immsg.today,DIRECT
+  - DOMAIN-SUFFIX,aliyuncs.com,DIRECT
+  - IP-CIDR,192.168.0.0/16,DIRECT
+  - IP-CIDR,10.0.0.0/8,DIRECT
+  - IP-CIDR,172.16.0.0/12,DIRECT
+  - IP-CIDR,47.110.79.137/24,DIRECT
+  - IP-CIDR,42.192.3.215/24,DIRECT
+  - IP-CIDR,42.238.190.4/24,DIRECT
+  - IP-CIDR,119.28.179.164/24,DIRECT
+  - IP-CIDR,120.26.237.92/24,DIRECT
+  - IP-CIDR,192.238.178.136/24,DIRECT
+  - IP-CIDR,192.238.178.54/24,DIRECT
+  - IP-CIDR,45.192.218.143/24,DIRECT
+  - DOMAIN-SUFFIX,jichengfz.top,DIRECT
+  - IP-CIDR,106.13.113.119/32,DIRECT
+
+  - DOMAIN,play-lh.googleusercontent.com,DIRECT
+  - DOMAIN-KEYWORD,vmoscloud,DIRECT
+  - DOMAIN-KEYWORD,armcloud,DIRECT
+  #js 静态文件
+  - DOMAIN-KEYWORD,youtube,DIRECT
+  - DOMAIN-KEYWORD,facebook,DIRECT
+  - DOMAIN,ms.bdstatic.com,DIRECT
+  - DOMAIN,sv.bdstatic.com,DIRECT
+  - DOMAIN,www.fbsbx.com,DIRECT
+  - DOMAIN,static.xx.fbcdn.net,DIRECT
+  - DOMAIN,psstatic.cdn.bcebos.com,DIRECT
+  - DOMAIN,rr2---sn-ipoxu-3iik.gvt1.com,DIRECT
+  - DOMAIN,beacons.gcp.gvt2.com,DIRECT
+  - DOMAIN,beacons5.gvt3.com,DIRECT
+  - DOMAIN,middledata.ldmnq.com,DIRECT
+  - DOMAIN-KEYWORD,fonts,DIRECT
+
+  #猜测为谷歌搜索页面
+  - DOMAIN,images-na.ssl-images-amazon.com,DIRECT
+  - DOMAIN,en.m.wikipedia.org,DIRECT
+  - DOMAIN,ir.ebaystatic.com,DIRECT
+  - DOMAIN,www.instagram.com,DIRECT
+  - DOMAIN,a.espncdn.com,DIRECT
+  - DOMAIN,cdn.detik.net.id,DIRECT
+  - DOMAIN,abs-0.twimg.com,DIRECT
+  - DOMAIN,styleguide.brainly.co.id,DIRECT
+  - DOMAIN,assets.cpcdn.com,DIRECT
+  - DOMAIN,am.olx.biz.id,DIRECT
+  - DOMAIN,yt3.ggpht.com,DIRECT
+
+  - MATCH,动态住宅
+"""
+    return template
+
+
+def main():
+    """"""
+    # domoproxy
+    dir = 'proxy1'
+
+    os.makedirs(dir, exist_ok=True)
+
+    with open('country_list.json', 'r', encoding='utf8') as f:
+        country_list = json.load(f)
+
+    for country in country_list:
+        code = country['code']
+        name = country['name']
+        template = build_template('gate.hk.domoproxy.info', 1000, '4119739-bb9bbdf7', f'4c26ebbb-{code}')
+        with open(f'{dir}/{code}.yaml', 'w', encoding='utf8') as fp:
+            fp.write(template)
+
+
+if __name__ == '__main__':
+    main()
