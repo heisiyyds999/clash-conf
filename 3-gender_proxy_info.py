@@ -33,16 +33,25 @@ def get_proxy_info(proxy: str):
     return name, timezone, latitude, longitude
 
 
-def handle_thread():
+def handle_thread(country: dict):
     """"""
+    code = country['code']
+    name = country['name']
+
+    _, timezone, latitude, longitude = get_proxy_info(f'4119739-bb9bbdf7:4c26ebbb-US@gate.hk.domoproxy.info:1000')
+
+    template = f'{name}@@@@{code}'
+    print(template)
+    return template
 
 
 def main():
     """"""
     country_list = get_country_list()
-    # for country in country_list:
-    #     print(country)
-    # t = get_proxy_info(f'4119739-bb9bbdf7:4c26ebbb-US@gate.hk.domoproxy.info:1000')
+    with ThreadPoolExecutor(max_workers=10) as executor:
+        results = [executor.submit(handle_thread, country) for country in country_list]
+        result = [result.result() for result in results]
+        print(result)
 
 
 if __name__ == '__main__':

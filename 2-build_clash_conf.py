@@ -102,7 +102,7 @@ rules:
 def main():
     """"""
     # domoproxy
-    dir = 'proxy1'
+    dir = 'proxys-a'
 
     os.makedirs(dir, exist_ok=True)
 
