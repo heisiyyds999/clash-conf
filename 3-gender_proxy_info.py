@@ -65,6 +65,7 @@ def main():
         results = [executor.submit(handle_thread, country)
                    for country in country_list]
         result = [result.result() for result in results]
+        result = sorted(result, key=lambda x: x["code"])
         with open('result.json', 'w', encoding='utf8') as fp:
             json.dump(result, fp, ensure_ascii=False, indent=2)
 
