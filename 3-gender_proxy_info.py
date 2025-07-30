@@ -8,11 +8,12 @@ def get_country_list() -> list:
     """
     :return: [{code:str,name:str},...]
     """
-    with open('proxy_country.json', 'r', encoding='utf8') as f:
+    with open('country.json', 'r', encoding='utf8') as f:
         data = json.load(f)
-    return [{'code': item['name'], 'name': item['cnname']} for item in data]
+    return data
 
 
+@retry(stop=stop_after_attempt(10), wait=wait_fixed(1))
 def get_proxy_info(proxy: str):
     """"""
     proxies = {
@@ -20,13 +21,14 @@ def get_proxy_info(proxy: str):
         'https': f'socks5h://{proxy}',
     }
     response = requests.get('https://api.ipapi.is/', proxies=proxies)
+    print(response.text)
     data = response.json()
     location = data['location']
     # 名称
     name = location['country_code']
-    # 经度
-    latitude = location['latitude']
     # 纬度
+    latitude = location['latitude']
+    # 经度
     longitude = location['longitude']
     # 时区
     timezone = location['timezone']
@@ -38,20 +40,33 @@ def handle_thread(country: dict):
     code = country['code']
     name = country['name']
 
-    _, timezone, latitude, longitude = get_proxy_info(f'4119739-bb9bbdf7:4c26ebbb-US@gate.hk.domoproxy.info:1000')
-
-    template = f'{name}@@@@{code}'
-    print(template)
-    return template
+    try:
+        # _, timezone, latitude, longitude = get_proxy_info(f'4119739-bb9bbdf7:4c26ebbb-{code}@gate.hk.domoproxy.info:1000')
+        _, timezone, latitude, longitude = get_proxy_info(f'NF321321-zone-custom-region-{code}:NF321321@17083eb925263312.gtz.as.ipidea.online:2333')
+    except Exception:
+        timezone = ''
+        latitude = ''
+        longitude = ''
+    
+    return {
+        'name': name,
+        'code': code,
+        'url': f'https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/{code}.yaml',
+        'timezone': timezone,
+        'longitude': longitude,
+        'latitude': latitude
+    }
 
 
 def main():
     """"""
     country_list = get_country_list()
     with ThreadPoolExecutor(max_workers=10) as executor:
-        results = [executor.submit(handle_thread, country) for country in country_list]
+        results = [executor.submit(handle_thread, country)
+                   for country in country_list]
         result = [result.result() for result in results]
-        print(result)
+        with open('result.json', 'w', encoding='utf8') as fp:
+            json.dump(result, fp, ensure_ascii=False, indent=2)
 
 
 if __name__ == '__main__':

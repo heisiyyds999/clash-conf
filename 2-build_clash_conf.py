@@ -11,7 +11,7 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 experimental:
-  ignore-resolve-fail: true 
+  ignore-resolve-fail: true
 hosts:
   "mtalk.google.com": 108.177.125.188
 
@@ -102,17 +102,22 @@ rules:
 def main():
     """"""
     # domoproxy
-    dir = 'proxys-a'
+    # dir = 'proxys-a'
+    dir = 'proxys'
 
     os.makedirs(dir, exist_ok=True)
 
-    with open('country_list.json', 'r', encoding='utf8') as f:
+    with open('country.json', 'r', encoding='utf8') as f:
         country_list = json.load(f)
 
     for country in country_list:
         code = country['code']
         name = country['name']
-        template = build_template('gate.hk.domoproxy.info', 1000, '4119739-bb9bbdf7', f'4c26ebbb-{code}')
+        # domo
+        # template = build_template('gate.hk.domoproxy.info', 1000, '4119739-bb9bbdf7', f'4c26ebbb-{code}')
+        # ipidea
+        # NF321321-zone-custom-region-kr:NF321321:17083eb925263312.gtz.as.ipidea.online:2333
+        template = build_template('17083eb925263312.gtz.as.ipidea.online', 2333, f'NF321321-zone-custom-region-{code}', 'NF321321')
         with open(f'{dir}/{code}.yaml', 'w', encoding='utf8') as fp:
             fp.write(template)
 

@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 experimental:
-  ignore-resolve-fail: true 
+  ignore-resolve-fail: true
 hosts:
   "mtalk.google.com": 108.177.125.188
 
@@ -13,7 +13,7 @@ proxies:
 
   - name: 动态住宅
     type: socks5
-    server: 17083eb925263312.xnu.na.ipidea.online
+    server: 17083eb925263312.gtz.as.ipidea.online
     port: 2333
     username: NF321321-zone-custom-region-dk
     password: NF321321
@@ -87,5 +87,5 @@ rules:
   - DOMAIN,assets.cpcdn.com,DIRECT
   - DOMAIN,am.olx.biz.id,DIRECT
   - DOMAIN,yt3.ggpht.com,DIRECT
-  
+
   - MATCH,动态住宅

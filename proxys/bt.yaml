@@ -1,20 +1,11 @@
-import json
-
-with open('country.json', 'r', encoding='utf8') as fp:
-    data = json.load(fp)
-
-for item in data:
-    code = item['code']
-    name = item['name']
-
-    template = f"""port: 7890
+port: 7890
 socks-port: 7891
 allow-lan: false
 mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 experimental:
-  ignore-resolve-fail: true 
+  ignore-resolve-fail: true
 hosts:
   "mtalk.google.com": 108.177.125.188
 
@@ -22,9 +13,9 @@ proxies:
 
   - name: 动态住宅
     type: socks5
-    server: 17083eb925263312.xnu.na.ipidea.online
+    server: 17083eb925263312.gtz.as.ipidea.online
     port: 2333
-    username: NF321321-zone-custom-region-{code}
+    username: NF321321-zone-custom-region-bt
     password: NF321321
 proxy-groups:
   - name: output
@@ -96,9 +87,5 @@ rules:
   - DOMAIN,assets.cpcdn.com,DIRECT
   - DOMAIN,am.olx.biz.id,DIRECT
   - DOMAIN,yt3.ggpht.com,DIRECT
-  
-  - MATCH,动态住宅
-"""
 
-    with open(f'proxys/{code}.yaml', 'w', encoding='utf8') as fp:
-        fp.write(template)
+  - MATCH,动态住宅
