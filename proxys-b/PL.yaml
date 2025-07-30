@@ -1,10 +1,4 @@
-import os
-import json
-
-
-def build_template(host: str, port: int, username: str, password: str) -> str:
-    """"""
-    template = f"""port: 7890
+port: 7890
 socks-port: 7891
 allow-lan: false
 mode: Rule
@@ -19,10 +13,10 @@ proxies:
 
   - name: 动态住宅
     type: socks5
-    server: {host}
-    port: {port}
-    username: {username}
-    password: {password}
+    server: as.63a8d56b23858374.ipmars.vip
+    port: 4900
+    username: mKokLOnKgQ-zone-mars-region-PL
+    password: 88549607
 proxy-groups:
   - name: output
     type: select
@@ -95,40 +89,3 @@ rules:
   - DOMAIN,yt3.ggpht.com,DIRECT
 
   - MATCH,动态住宅
-"""
-    return template
-
-
-def main():
-    """"""
-    # domoproxy
-    # dir = 'proxys-a'
-
-    # ipidea
-    # dir = 'proxys'
-
-    # ipmars
-    dir = 'proxys-b'
-
-    os.makedirs(dir, exist_ok=True)
-
-    with open('country.json', 'r', encoding='utf8') as f:
-        country_list = json.load(f)
-
-    for country in country_list:
-        code = country['code']
-        name = country['name']
-        # domo
-        # template = build_template('gate.hk.domoproxy.info', 1000, '4119739-bb9bbdf7', f'4c26ebbb-{code}')
-
-        # ipidea
-        # template = build_template('17083eb925263312.gtz.as.ipidea.online', 2333, f'NF321321-zone-custom-region-{code}', 'NF321321')
-
-        # ipmars
-        template = build_template('as.63a8d56b23858374.ipmars.vip', 4900, f'mKokLOnKgQ-zone-mars-region-{code}', '88549607')
-        with open(f'{dir}/{code}.yaml', 'w', encoding='utf8') as fp:
-            fp.write(template)
-
-
-if __name__ == '__main__':
-    main()

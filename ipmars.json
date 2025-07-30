@@ -1,0 +1,902 @@
+[
+    {
+        "cn_name": "印度",
+        "en_name": "India",
+        "name": "IN",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "印度尼西亚",
+        "en_name": "Indonesia",
+        "name": "ID",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "日本",
+        "en_name": "Japan",
+        "name": "JP",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "韩国",
+        "en_name": "The Republic of Korea",
+        "name": "KR",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "中国香港",
+        "en_name": "Hong Kong China",
+        "name": "HK",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "菲律宾",
+        "en_name": "The Philippines",
+        "name": "PH",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "新加坡",
+        "en_name": "Singapore",
+        "name": "SG",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "越南",
+        "en_name": "Vietnam",
+        "name": "VN",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "缅甸",
+        "en_name": "Myanmar",
+        "name": "MM",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "泰国",
+        "en_name": "Thailand",
+        "name": "TH",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "马来西亚",
+        "en_name": "Malaysia",
+        "name": "MY",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "中国台湾",
+        "en_name": "Taiwan China",
+        "name": "TW",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "孟加拉国",
+        "en_name": "The People'S Republic of Bangladesh",
+        "name": "BD",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "不丹",
+        "en_name": "Bhutan",
+        "name": "BT",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "马尔代夫",
+        "en_name": "Maldives",
+        "name": "MV",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "尼泊尔",
+        "en_name": "Nepal",
+        "name": "NP",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "巴基斯坦",
+        "en_name": "Pakistan",
+        "name": "PK",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "斯里兰卡",
+        "en_name": "Sri Lanka",
+        "name": "LK",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "巴林",
+        "en_name": "Bahrain",
+        "name": "BH",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "科威特",
+        "en_name": "Kuwait",
+        "name": "KW",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "阿曼",
+        "en_name": "Oman",
+        "name": "OM",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "瑞典",
+        "en_name": "Sweden",
+        "name": "SE",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "卡塔尔",
+        "en_name": "Qatar",
+        "name": "QA",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "沙特阿拉伯",
+        "en_name": "Saudi Arabia",
+        "name": "SA",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "阿联酋",
+        "en_name": "The United Arab Emirates",
+        "name": "AE",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "也门",
+        "en_name": "Yemen",
+        "name": "YE",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "塞浦路斯",
+        "en_name": "Cyprus",
+        "name": "CY",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "伊拉克",
+        "en_name": "Iraq",
+        "name": "IQ",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "以色列",
+        "en_name": "Israel",
+        "name": "IL",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "约旦",
+        "en_name": "Jordan",
+        "name": "JO",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "黎巴嫩",
+        "en_name": "Lebanon",
+        "name": "LB",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "巴勒斯坦",
+        "en_name": "Palestine",
+        "name": "PS",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "叙利亚",
+        "en_name": "Syria",
+        "name": "SY",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "阿富汗",
+        "en_name": "Afghanistan",
+        "name": "AF",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "亚美尼亚",
+        "en_name": "Armenia",
+        "name": "AM",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "阿塞拜疆",
+        "en_name": "Azerbaijan",
+        "name": "AZ",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "伊朗",
+        "en_name": "Iran",
+        "name": "IR",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "土耳其",
+        "en_name": "Turkey",
+        "name": "TR",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "哈萨克斯坦",
+        "en_name": "Kazakhstan",
+        "name": "KZ",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "吉尔吉斯斯坦",
+        "en_name": "Kyrgyzstan",
+        "name": "KG",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "塔吉克斯坦",
+        "en_name": "Tajikistan",
+        "name": "TJ",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "土库曼斯坦",
+        "en_name": "Turkmenistan",
+        "name": "TM",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "乌兹别克斯坦",
+        "en_name": "Uzbekistan",
+        "name": "UZ",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "格鲁吉亚",
+        "en_name": "Georgia",
+        "name": "GE",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "东帝汶",
+        "en_name": "Timor-Leste",
+        "name": "TL",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "中国澳门",
+        "en_name": "Macao China",
+        "name": "MO",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "文莱",
+        "en_name": "Brunei",
+        "name": "BN",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "柬埔寨",
+        "en_name": "Cambodia",
+        "name": "KH",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "老挝",
+        "en_name": "Laos",
+        "name": "LA",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "蒙古国",
+        "en_name": "Mongolia",
+        "name": "MN",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "英国",
+        "en_name": "Britain",
+        "name": "GB",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "法国",
+        "en_name": "France",
+        "name": "FR",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "俄罗斯",
+        "en_name": "Russia",
+        "name": "RU",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "意大利",
+        "en_name": "Italy",
+        "name": "IT",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "德国",
+        "en_name": "Germany",
+        "name": "DE",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "卢森堡",
+        "en_name": "Luxembourg",
+        "name": "LU",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "白俄罗斯",
+        "en_name": "Belarus",
+        "name": "BY",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "比利时",
+        "en_name": "Belgium",
+        "name": "BE",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "奥地利",
+        "en_name": "Austria",
+        "name": "AT",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "西班牙",
+        "en_name": "Spain",
+        "name": "ES",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "爱尔兰",
+        "en_name": "Ireland",
+        "name": "IE",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "芬兰",
+        "en_name": "Finland",
+        "name": "FI",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "葡萄牙",
+        "en_name": "Portugal",
+        "name": "PT",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "拉脱维亚",
+        "en_name": "Latvia",
+        "name": "LV",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "波兰",
+        "en_name": "Poland",
+        "name": "PL",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "立陶宛",
+        "en_name": "Lithuania",
+        "name": "LT",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "匈牙利",
+        "en_name": "Hungary",
+        "name": "HU",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "摩尔多瓦",
+        "en_name": "Moldova",
+        "name": "MD",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "荷兰",
+        "en_name": "Netherlands",
+        "name": "NL",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "瑞士",
+        "en_name": "Switzerland",
+        "name": "CH",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "摩纳哥",
+        "en_name": "Monaco",
+        "name": "MC",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "捷克共和国",
+        "en_name": "The Czech Republic",
+        "name": "CZ",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "挪威",
+        "en_name": "Norway",
+        "name": "NO",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "冰岛",
+        "en_name": "Iceland",
+        "name": "IS",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "希腊",
+        "en_name": "Greece",
+        "name": "GR",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "马耳他",
+        "en_name": "Malta",
+        "name": "MT",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "爱沙尼亚",
+        "en_name": "Estonia",
+        "name": "EE",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "乌克兰",
+        "en_name": "Ukraine",
+        "name": "UA",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "克罗地亚",
+        "en_name": "Croatia",
+        "name": "HR",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "阿尔巴尼亚",
+        "en_name": "Albania",
+        "name": "AL",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "波黑",
+        "en_name": "Bih",
+        "name": "BA",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "保加利亚",
+        "en_name": "Bulgaria",
+        "name": "BG",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "丹麦",
+        "en_name": "Denmark",
+        "name": "DK",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "黑山",
+        "en_name": "Montenegro",
+        "name": "ME",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "马其顿",
+        "en_name": "Macedonia",
+        "name": "MK",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "罗马尼亚",
+        "en_name": "Romania",
+        "name": "RO",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "塞尔维亚",
+        "en_name": "Serbia",
+        "name": "RS",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "斯洛文尼亚",
+        "en_name": "Slovenia",
+        "name": "SI",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "斯洛伐克",
+        "en_name": "Slovakia",
+        "name": "SK",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "美国",
+        "en_name": "U.S.A",
+        "name": "US",
+        "proxy_domain_index": 1
+    },
+    {
+        "cn_name": "加拿大",
+        "en_name": "Canada",
+        "name": "CA",
+        "proxy_domain_index": 1
+    },
+    {
+        "cn_name": "牙买加",
+        "en_name": "Jamaica",
+        "name": "JM",
+        "proxy_domain_index": 1
+    },
+    {
+        "cn_name": "圣卢西亚",
+        "en_name": "Saint Lucia",
+        "name": "LC",
+        "proxy_domain_index": 1
+    },
+    {
+        "cn_name": "墨西哥",
+        "en_name": "Mexico",
+        "name": "MX",
+        "proxy_domain_index": 1
+    },
+    {
+        "cn_name": "巴拿马",
+        "en_name": "Panama",
+        "name": "PA",
+        "proxy_domain_index": 1
+    },
+    {
+        "cn_name": "阿鲁巴",
+        "en_name": "Aruba",
+        "name": "AW",
+        "proxy_domain_index": 1
+    },
+    {
+        "cn_name": "哥斯达黎加",
+        "en_name": "Costa Rica",
+        "name": "CR",
+        "proxy_domain_index": 1
+    },
+    {
+        "cn_name": "库拉索",
+        "en_name": "Curacao",
+        "name": "CW",
+        "proxy_domain_index": 1
+    },
+    {
+        "cn_name": "多米尼加",
+        "en_name": "Dominican",
+        "name": "DO",
+        "proxy_domain_index": 1
+    },
+    {
+        "cn_name": "瓜德罗普",
+        "en_name": "Guadeloupe",
+        "name": "GP",
+        "proxy_domain_index": 1
+    },
+    {
+        "cn_name": "危地马拉",
+        "en_name": "Guatemala",
+        "name": "GT",
+        "proxy_domain_index": 1
+    },
+    {
+        "cn_name": "洪都拉斯",
+        "en_name": "Honduras",
+        "name": "HN",
+        "proxy_domain_index": 1
+    },
+    {
+        "cn_name": "波多黎各",
+        "en_name": "Puerto Rico",
+        "name": "PR",
+        "proxy_domain_index": 1
+    },
+    {
+        "cn_name": "萨尔瓦多",
+        "en_name": "El Salvador",
+        "name": "SV",
+        "proxy_domain_index": 1
+    },
+    {
+        "cn_name": "特立尼达和多巴哥",
+        "en_name": "Trinidad And Tobago",
+        "name": "TT",
+        "proxy_domain_index": 1
+    },
+    {
+        "cn_name": "巴西",
+        "en_name": "Brazil",
+        "name": "BR",
+        "proxy_domain_index": 1
+    },
+    {
+        "cn_name": "阿根廷",
+        "en_name": "Argentina",
+        "name": "AR",
+        "proxy_domain_index": 1
+    },
+    {
+        "cn_name": "哥伦比亚",
+        "en_name": "Columbia",
+        "name": "CO",
+        "proxy_domain_index": 1
+    },
+    {
+        "cn_name": "智利",
+        "en_name": "Chile",
+        "name": "CL",
+        "proxy_domain_index": 1
+    },
+    {
+        "cn_name": "委内瑞拉",
+        "en_name": "Venezuela",
+        "name": "VE",
+        "proxy_domain_index": 1
+    },
+    {
+        "cn_name": "秘鲁",
+        "en_name": "Peru",
+        "name": "PE",
+        "proxy_domain_index": 1
+    },
+    {
+        "cn_name": "玻利维亚",
+        "en_name": "Bolivia",
+        "name": "BO",
+        "proxy_domain_index": 1
+    },
+    {
+        "cn_name": "厄瓜多尔",
+        "en_name": "Ecuador",
+        "name": "EC",
+        "proxy_domain_index": 1
+    },
+    {
+        "cn_name": "圭亚那",
+        "en_name": "Guyana",
+        "name": "GY",
+        "proxy_domain_index": 1
+    },
+    {
+        "cn_name": "巴拉圭",
+        "en_name": "Paraguay",
+        "name": "PY",
+        "proxy_domain_index": 1
+    },
+    {
+        "cn_name": "乌拉圭",
+        "en_name": "Uruguay",
+        "name": "UY",
+        "proxy_domain_index": 1
+    },
+    {
+        "cn_name": "新西兰",
+        "en_name": "New Zealand",
+        "name": "NZ",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "帕劳",
+        "en_name": "Palau",
+        "name": "PW",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "澳大利亚",
+        "en_name": "Australia",
+        "name": "AU",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "斐济群岛",
+        "en_name": "Fiji Islands",
+        "name": "FJ",
+        "proxy_domain_index": 2
+    },
+    {
+        "cn_name": "马达加斯加",
+        "en_name": "Madagascar",
+        "name": "MG",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "莫桑比克",
+        "en_name": "Mozambique",
+        "name": "MZ",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "南非",
+        "en_name": "South Africa",
+        "name": "ZA",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "埃塞俄比亚",
+        "en_name": "Ethiopia",
+        "name": "ET",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "肯尼亚",
+        "en_name": "Kenya",
+        "name": "KE",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "加纳",
+        "en_name": "Ghana",
+        "name": "GH",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "尼日利亚",
+        "en_name": "Nigeria",
+        "name": "NG",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "安哥拉",
+        "en_name": "Angola",
+        "name": "AO",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "布基纳法索",
+        "en_name": "Burkina Faso",
+        "name": "BF",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "贝宁",
+        "en_name": "Benin",
+        "name": "BJ",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "博茨瓦纳",
+        "en_name": "Botswana",
+        "name": "BW",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "刚果(布)",
+        "en_name": "Congo",
+        "name": "CG",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "科特迪瓦",
+        "en_name": "Cote D'Ivoire",
+        "name": "CI",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "阿尔及利亚",
+        "en_name": "Algeria",
+        "name": "DZ",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "埃及",
+        "en_name": "Egypt",
+        "name": "EG",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "加蓬",
+        "en_name": "Gabon",
+        "name": "GA",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "利比亚",
+        "en_name": "Libya",
+        "name": "LY",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "摩洛哥",
+        "en_name": "Morocco",
+        "name": "MA",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "马里",
+        "en_name": "Mali",
+        "name": "ML",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "毛里求斯",
+        "en_name": "Mauritius",
+        "name": "MU",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "纳米比亚",
+        "en_name": "Namibia",
+        "name": "NA",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "留尼汪",
+        "en_name": "Reunion",
+        "name": "RE",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "卢旺达",
+        "en_name": "Rwanda",
+        "name": "RW",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "苏丹",
+        "en_name": "Sudan",
+        "name": "SD",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "塞内加尔",
+        "en_name": "Senegal",
+        "name": "SN",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "南苏丹",
+        "en_name": "South Sudan",
+        "name": "SS",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "多哥",
+        "en_name": "Togo",
+        "name": "TG",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "突尼斯",
+        "en_name": "Tunisia",
+        "name": "TN",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "乌干达",
+        "en_name": "Uganda",
+        "name": "UG",
+        "proxy_domain_index": 3
+    },
+    {
+        "cn_name": "津巴布韦",
+        "en_name": "Zimbabwe",
+        "name": "ZW",
+        "proxy_domain_index": 3
+    }
+]

@@ -10,14 +10,25 @@ def main():
     #                 for item in data]
 
     # ipidea
+    # country = []
+    # with open('ipidea.json', encoding='utf8') as f:
+    #     data = json.load(f)
+    # for a in data['ret_data']['country']:
+    #     if a['list']:
+    #         for b in a['list']:
+    #             country.append(b)
+
+    # ipmars
     country = []
-    with open('ipidea.json', encoding='utf8') as f:
+    with open('ipmars.json', encoding='utf8') as f:
         data = json.load(f)
-    for a in data['ret_data']['country']:
-        if a['list']:
-            for b in a['list']:
-                country.append(b)
-    
+    country = []
+    for a in data:
+        country.append({
+            'name': a['cn_name'],
+            'code': a['name']
+        })
+
     with open('country.json', 'w', encoding='utf8') as f:
         json.dump(country, f, ensure_ascii=False, indent=2)
 

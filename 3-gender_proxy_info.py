@@ -42,16 +42,19 @@ def handle_thread(country: dict):
 
     try:
         # _, timezone, latitude, longitude = get_proxy_info(f'4119739-bb9bbdf7:4c26ebbb-{code}@gate.hk.domoproxy.info:1000')
-        _, timezone, latitude, longitude = get_proxy_info(f'NF321321-zone-custom-region-{code}:NF321321@17083eb925263312.gtz.as.ipidea.online:2333')
+        # ipidea
+        # _, timezone, latitude, longitude = get_proxy_info(f'NF321321-zone-custom-region-{code}:NF321321@17083eb925263312.gtz.as.ipidea.online:2333')
+        # ipmars
+        _, timezone, latitude, longitude = get_proxy_info(f'mKokLOnKgQ-zone-mars-region-{code}:88549607@as.63a8d56b23858374.ipmars.vip:4900')
     except Exception:
         timezone = ''
         latitude = ''
         longitude = ''
-    
+
     return {
         'name': name,
         'code': code,
-        'url': f'https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/{code}.yaml',
+        'url': f'https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/{code}.yaml',
         'timezone': timezone,
         'longitude': longitude,
         'latitude': latitude

@@ -1,1690 +1,1202 @@
 [
   {
-    "name": "安道尔公国",
-    "code": "ad",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ad.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
-  },
-  {
     "name": "阿联酋",
-    "code": "ae",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ae.yaml",
+    "code": "AE",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/AE.yaml",
     "timezone": "Asia/Dubai",
     "longitude": 55.4121,
     "latitude": 25.3374
   },
   {
     "name": "阿富汗",
-    "code": "af",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/af.yaml",
+    "code": "AF",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/AF.yaml",
     "timezone": "Asia/Kabul",
     "longitude": 69.1723,
     "latitude": 34.5281
   },
   {
-    "name": "安提瓜和巴布达",
-    "code": "ag",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ag.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
-  },
-  {
     "name": "阿尔巴尼亚",
-    "code": "al",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/al.yaml",
+    "code": "AL",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/AL.yaml",
     "timezone": "Europe/Tirane",
-    "longitude": 19.55694,
-    "latitude": 41.18556
+    "longitude": 19.43639,
+    "latitude": 42.21361
   },
   {
     "name": "亚美尼亚",
-    "code": "am",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/am.yaml",
+    "code": "AM",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/AM.yaml",
     "timezone": "Asia/Yerevan",
     "longitude": 44.5136,
     "latitude": 40.1811
   },
   {
     "name": "安哥拉",
-    "code": "ao",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ao.yaml",
+    "code": "AO",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/AO.yaml",
     "timezone": "Africa/Luanda",
     "longitude": 13.2343,
     "latitude": -8.83682
   },
   {
     "name": "阿根廷",
-    "code": "ar",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ar.yaml",
-    "timezone": "America/Argentina/Cordoba",
-    "longitude": -60.70868,
-    "latitude": -31.64881
-  },
-  {
-    "name": "美属萨摩亚",
-    "code": "as",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/as.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
+    "code": "AR",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/AR.yaml",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "longitude": -59.11478,
+    "latitude": -34.5664
   },
   {
     "name": "奥地利",
-    "code": "at",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/at.yaml",
+    "code": "AT",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/AT.yaml",
     "timezone": "Europe/Vienna",
-    "longitude": 15.45,
-    "latitude": 47.06667
+    "longitude": 16.38233,
+    "latitude": 48.16116
   },
   {
     "name": "澳大利亚",
-    "code": "au",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/au.yaml",
-    "timezone": "Australia/Sydney",
-    "longitude": 151.20732,
-    "latitude": -33.86785
+    "code": "AU",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/AU.yaml",
+    "timezone": "Australia/Brisbane",
+    "longitude": 153.02809,
+    "latitude": -27.46794
   },
   {
     "name": "阿鲁巴",
-    "code": "aw",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/aw.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
+    "code": "AW",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/AW.yaml",
+    "timezone": "America/Aruba",
+    "longitude": -70.027103,
+    "latitude": 12.523921
   },
   {
     "name": "阿塞拜疆",
-    "code": "az",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/az.yaml",
+    "code": "AZ",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/AZ.yaml",
     "timezone": "Asia/Baku",
-    "longitude": 47.12619,
-    "latitude": 40.37577
+    "longitude": 48.929,
+    "latitude": 39.93778
   },
   {
     "name": "波黑",
-    "code": "ba",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ba.yaml",
+    "code": "BA",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/BA.yaml",
     "timezone": "Europe/Sarajevo",
-    "longitude": 19.09028,
-    "latitude": 44.17111
-  },
-  {
-    "name": "巴巴多斯",
-    "code": "bb",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/bb.yaml",
-    "timezone": "America/Barbados",
-    "longitude": -59.6202,
-    "latitude": 13.1073
+    "longitude": 18.8101,
+    "latitude": 44.8699
   },
   {
     "name": "孟加拉国",
-    "code": "bd",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/bd.yaml",
+    "code": "BD",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/BD.yaml",
     "timezone": "Asia/Dhaka",
-    "longitude": 89.2372,
-    "latitude": 24.00644
+    "longitude": 90.40744,
+    "latitude": 23.7104
   },
   {
     "name": "比利时",
-    "code": "be",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/be.yaml",
+    "code": "BE",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/BE.yaml",
     "timezone": "Europe/Brussels",
-    "longitude": 3.71667,
-    "latitude": 51.05
+    "longitude": 4.34878,
+    "latitude": 50.85045
   },
   {
     "name": "布基纳法索",
-    "code": "bf",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/bf.yaml",
+    "code": "BF",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/BF.yaml",
     "timezone": "Africa/Ouagadougou",
     "longitude": -1.5264,
     "latitude": 12.3729
   },
   {
     "name": "保加利亚",
-    "code": "bg",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/bg.yaml",
+    "code": "BG",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/BG.yaml",
     "timezone": "Europe/Sofia",
-    "longitude": 22.96553,
-    "latitude": 42.54565
+    "longitude": 23.32415,
+    "latitude": 42.69751
   },
   {
     "name": "巴林",
-    "code": "bh",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/bh.yaml",
+    "code": "BH",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/BH.yaml",
     "timezone": "Asia/Bahrain",
     "longitude": 50.555,
     "latitude": 26.13
   },
   {
     "name": "贝宁",
-    "code": "bj",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/bj.yaml",
+    "code": "BJ",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/BJ.yaml",
     "timezone": "Africa/Porto-Novo",
-    "longitude": 2.60359,
-    "latitude": 6.49646
-  },
-  {
-    "name": "百慕大",
-    "code": "bm",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/bm.yaml",
-    "timezone": "Atlantic/Bermuda",
-    "longitude": -64.79204,
-    "latitude": 32.30019
+    "longitude": 2.418213,
+    "latitude": 6.365501
   },
   {
     "name": "文莱",
-    "code": "bn",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/bn.yaml",
+    "code": "BN",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/BN.yaml",
     "timezone": "Asia/Brunei",
     "longitude": 114.942,
     "latitude": 4.89234
   },
   {
     "name": "玻利维亚",
-    "code": "bo",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/bo.yaml",
+    "code": "BO",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/BO.yaml",
     "timezone": "America/La_Paz",
-    "longitude": -68.15,
-    "latitude": -16.5
+    "longitude": -66.1584,
+    "latitude": -17.3845
   },
   {
     "name": "巴西",
-    "code": "br",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/br.yaml",
+    "code": "BR",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/BR.yaml",
     "timezone": "America/Sao_Paulo",
-    "longitude": -51.23019,
-    "latitude": -30.03283
-  },
-  {
-    "name": "巴哈马",
-    "code": "bs",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/bs.yaml",
-    "timezone": "America/Nassau",
-    "longitude": -77.3431,
-    "latitude": 25.0582
+    "longitude": -46.63611,
+    "latitude": -23.5475
   },
   {
     "name": "不丹",
-    "code": "bt",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/bt.yaml",
-    "timezone": "Asia/Thimphu",
-    "longitude": 89.6386,
-    "latitude": 27.4716
+    "code": "BT",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/BT.yaml",
+    "timezone": "Asia/Kolkata",
+    "longitude": 89.37558,
+    "latitude": 26.84766
   },
   {
     "name": "博茨瓦纳",
-    "code": "bw",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/bw.yaml",
+    "code": "BW",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/BW.yaml",
     "timezone": "Africa/Gaborone",
-    "longitude": 25.908583,
-    "latitude": -24.654573
+    "longitude": 23.41667,
+    "latitude": -19.98333
   },
   {
     "name": "白俄罗斯",
-    "code": "by",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/by.yaml",
+    "code": "BY",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/BY.yaml",
     "timezone": "Europe/Minsk",
     "longitude": 27.56653,
     "latitude": 53.90019
   },
   {
-    "name": "伯利兹",
-    "code": "bz",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/bz.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
-  },
-  {
     "name": "加拿大",
-    "code": "ca",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ca.yaml",
+    "code": "CA",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/CA.yaml",
     "timezone": "America/Toronto",
-    "longitude": -79.84963,
-    "latitude": 43.25011
-  },
-  {
-    "name": "刚果金",
-    "code": "cd",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/cd.yaml",
-    "timezone": "Africa/Lubumbashi",
-    "longitude": 27.4834,
-    "latitude": -11.663
+    "longitude": -79.39864,
+    "latitude": 43.70643
   },
   {
     "name": "刚果(布)",
-    "code": "cg",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/cg.yaml",
+    "code": "CG",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/CG.yaml",
     "timezone": "Africa/Kinshasa",
     "longitude": 15.3136,
     "latitude": -4.32758
   },
   {
     "name": "瑞士",
-    "code": "ch",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ch.yaml",
+    "code": "CH",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/CH.yaml",
     "timezone": "Europe/Zurich",
     "longitude": 8.55,
     "latitude": 47.36667
   },
   {
     "name": "科特迪瓦",
-    "code": "ci",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ci.yaml",
+    "code": "CI",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/CI.yaml",
     "timezone": "Africa/Abidjan",
     "longitude": -4.00167,
     "latitude": 5.35444
   },
   {
     "name": "智利",
-    "code": "cl",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/cl.yaml",
+    "code": "CL",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/CL.yaml",
     "timezone": "America/Santiago",
-    "longitude": -73.11684,
-    "latitude": -36.72494
-  },
-  {
-    "name": "喀麦隆",
-    "code": "cm",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/cm.yaml",
-    "timezone": "Africa/Douala",
-    "longitude": 11.51663,
-    "latitude": 3.867017
+    "longitude": -70.64827,
+    "latitude": -33.45694
   },
   {
     "name": "哥伦比亚",
-    "code": "co",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/co.yaml",
+    "code": "CO",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/CO.yaml",
     "timezone": "America/Bogota",
-    "longitude": -75.57151,
-    "latitude": 6.245
+    "longitude": -74.08175,
+    "latitude": 4.60971
   },
   {
     "name": "哥斯达黎加",
-    "code": "cr",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/cr.yaml",
+    "code": "CR",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/CR.yaml",
     "timezone": "America/Costa_Rica",
-    "longitude": -84.08489,
-    "latitude": 9.93388
-  },
-  {
-    "name": "佛得角共和国",
-    "code": "cv",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/cv.yaml",
-    "timezone": "Atlantic/Cape_Verde",
-    "longitude": -23.5133,
-    "latitude": 14.9331
+    "longitude": -84.66628,
+    "latitude": 9.99197
   },
   {
     "name": "库拉索",
-    "code": "cw",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/cw.yaml",
+    "code": "CW",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/CW.yaml",
     "timezone": "America/Curacao",
     "longitude": -68.88641,
     "latitude": 12.12246
   },
   {
     "name": "塞浦路斯",
-    "code": "cy",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/cy.yaml",
+    "code": "CY",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/CY.yaml",
     "timezone": "Asia/Nicosia",
-    "longitude": 33.35397,
-    "latitude": 35.17284
+    "longitude": 33.62794,
+    "latitude": 34.9221
   },
   {
     "name": "捷克共和国",
-    "code": "cz",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/cz.yaml",
+    "code": "CZ",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/CZ.yaml",
     "timezone": "Europe/Prague",
-    "longitude": 15.9127,
-    "latitude": 50.56101
+    "longitude": 16.97061,
+    "latitude": 49.96528
   },
   {
     "name": "德国",
-    "code": "de",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/de.yaml",
+    "code": "DE",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/DE.yaml",
     "timezone": "Europe/Berlin",
-    "longitude": 7.77161,
-    "latitude": 49.443
-  },
-  {
-    "name": "吉布提国家",
-    "code": "dj",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/dj.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
+    "longitude": 9.99302,
+    "latitude": 53.55073
   },
   {
     "name": "丹麦",
-    "code": "dk",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/dk.yaml",
+    "code": "DK",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/DK.yaml",
     "timezone": "Europe/Copenhagen",
-    "longitude": 12.56553,
-    "latitude": 55.67594
-  },
-  {
-    "name": "多米尼加共和国",
-    "code": "dm",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/dm.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
+    "longitude": 11.35459,
+    "latitude": 55.40276
   },
   {
     "name": "多米尼加",
-    "code": "do",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/do.yaml",
+    "code": "DO",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/DO.yaml",
     "timezone": "America/Santo_Domingo",
-    "longitude": -69.8923,
-    "latitude": 18.4719
+    "longitude": -70.33333,
+    "latitude": 18.28333
   },
   {
     "name": "阿尔及利亚",
-    "code": "dz",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/dz.yaml",
+    "code": "DZ",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/DZ.yaml",
     "timezone": "Africa/Algiers",
-    "longitude": 4.53494,
-    "latitude": 36.4575
+    "longitude": 3.08746,
+    "latitude": 36.73225
   },
   {
     "name": "厄瓜多尔",
-    "code": "ec",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ec.yaml",
+    "code": "EC",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/EC.yaml",
     "timezone": "America/Guayaquil",
-    "longitude": -79.46274,
-    "latitude": -1.44285
+    "longitude": -77.71709,
+    "latitude": 0.8124
   },
   {
     "name": "爱沙尼亚",
-    "code": "ee",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ee.yaml",
+    "code": "EE",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/EE.yaml",
     "timezone": "Europe/Tallinn",
-    "longitude": 28.19028,
-    "latitude": 59.37722
+    "longitude": 24.75353,
+    "latitude": 59.43696
   },
   {
     "name": "埃及",
-    "code": "eg",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/eg.yaml",
+    "code": "EG",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/EG.yaml",
     "timezone": "Africa/Cairo",
-    "longitude": 30.81805,
-    "latitude": 30.8248
+    "longitude": 31.2497,
+    "latitude": 30.0626
   },
   {
     "name": "西班牙",
-    "code": "es",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/es.yaml",
+    "code": "ES",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/ES.yaml",
     "timezone": "Europe/Madrid",
-    "longitude": -3.60246,
-    "latitude": 40.03108
+    "longitude": -3.5179,
+    "latitude": 36.75066
   },
   {
     "name": "埃塞俄比亚",
-    "code": "et",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/et.yaml",
+    "code": "ET",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/ET.yaml",
     "timezone": "Africa/Addis_Ababa",
     "longitude": 38.7519,
     "latitude": 9.02427
   },
   {
-    "name": "欧洲",
-    "code": "eu",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/eu.yaml",
-    "timezone": "Europe/Amsterdam",
-    "longitude": 5.80859,
-    "latitude": 53.20139
-  },
-  {
     "name": "芬兰",
-    "code": "fi",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/fi.yaml",
+    "code": "FI",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/FI.yaml",
     "timezone": "Europe/Helsinki",
     "longitude": 24.86667,
     "latitude": 60.63333
   },
   {
     "name": "斐济群岛",
-    "code": "fj",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/fj.yaml",
+    "code": "FJ",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/FJ.yaml",
     "timezone": "Pacific/Fiji",
-    "longitude": 177.45,
-    "latitude": -17.6169
-  },
-  {
-    "name": "密克罗尼西亚联邦",
-    "code": "fm",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/fm.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
+    "longitude": 177.4159,
+    "latitude": -17.7996
   },
   {
     "name": "法国",
-    "code": "fr",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/fr.yaml",
+    "code": "FR",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/FR.yaml",
     "timezone": "Europe/Paris",
-    "longitude": -2.00877,
-    "latitude": 48.64738
+    "longitude": 1.42079,
+    "latitude": 50.04606
   },
   {
     "name": "加蓬",
-    "code": "ga",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ga.yaml",
+    "code": "GA",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/GA.yaml",
     "timezone": "Africa/Libreville",
-    "longitude": 9.45356,
-    "latitude": 0.39241
+    "longitude": 8.78454,
+    "latitude": -0.716896
   },
   {
     "name": "英国",
-    "code": "gb",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/gb.yaml",
+    "code": "GB",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/GB.yaml",
     "timezone": "Europe/London",
-    "longitude": -3.3,
-    "latitude": 52.51667
-  },
-  {
-    "name": "格林纳达",
-    "code": "gd",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/gd.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
+    "longitude": -0.12574,
+    "latitude": 51.50853
   },
   {
     "name": "格鲁吉亚",
-    "code": "ge",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ge.yaml",
-    "timezone": "Asia/Tbilisi",
-    "longitude": 41.6339,
-    "latitude": 41.6423
-  },
-  {
-    "name": "法属圭亚那",
-    "code": "gf",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/gf.yaml",
-    "timezone": "America/Cayenne",
-    "longitude": -52.33455,
-    "latitude": 4.9381
-  },
-  {
-    "name": "根西岛",
-    "code": "gg",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/gg.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
+    "code": "GE",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/GE.yaml",
+    "timezone": "Europe/Moscow",
+    "longitude": 39.72477,
+    "latitude": 43.59699
   },
   {
     "name": "加纳",
-    "code": "gh",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/gh.yaml",
+    "code": "GH",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/GH.yaml",
     "timezone": "Africa/Accra",
     "longitude": -0.197431,
     "latitude": 5.55928
   },
   {
-    "name": "直布罗陀",
-    "code": "gi",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/gi.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
-  },
-  {
-    "name": "格陵兰",
-    "code": "gl",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/gl.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
-  },
-  {
-    "name": "冈比亚",
-    "code": "gm",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/gm.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
-  },
-  {
-    "name": "几内亚",
-    "code": "gn",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/gn.yaml",
-    "timezone": "Africa/Conakry",
-    "longitude": -13.4167,
-    "latitude": 9.7333
-  },
-  {
     "name": "瓜德罗普",
-    "code": "gp",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/gp.yaml",
+    "code": "GP",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/GP.yaml",
     "timezone": "America/Guadeloupe",
     "longitude": -61.50507,
     "latitude": 16.273
   },
   {
-    "name": "赤道几内亚",
-    "code": "gq",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/gq.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
-  },
-  {
     "name": "希腊",
-    "code": "gr",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/gr.yaml",
+    "code": "GR",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/GR.yaml",
     "timezone": "Europe/Athens",
-    "longitude": 22.9477,
-    "latitude": 39.3692
+    "longitude": 23.7275,
+    "latitude": 37.9838
   },
   {
     "name": "危地马拉",
-    "code": "gt",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/gt.yaml",
+    "code": "GT",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/GT.yaml",
     "timezone": "America/Guatemala",
-    "longitude": -90.51327,
-    "latitude": 14.64072
-  },
-  {
-    "name": "关岛",
-    "code": "gu",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/gu.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
-  },
-  {
-    "name": "几内亚比绍",
-    "code": "gw",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/gw.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
+    "longitude": -91.18344,
+    "latitude": 14.7707
   },
   {
     "name": "圭亚那",
-    "code": "gy",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/gy.yaml",
+    "code": "GY",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/GY.yaml",
     "timezone": "America/Guyana",
     "longitude": -58.1551,
     "latitude": 6.80128
   },
   {
     "name": "中国香港",
-    "code": "hk",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/hk.yaml",
+    "code": "HK",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/HK.yaml",
     "timezone": "Asia/Hong_Kong",
     "longitude": 114.175,
     "latitude": 22.2783
   },
   {
     "name": "洪都拉斯",
-    "code": "hn",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/hn.yaml",
+    "code": "HN",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/HN.yaml",
     "timezone": "America/Tegucigalpa",
-    "longitude": -87.17882,
-    "latitude": 13.30569
+    "longitude": -87.20681,
+    "latitude": 14.0818
   },
   {
     "name": "克罗地亚",
-    "code": "hr",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/hr.yaml",
-    "timezone": "Europe/Sarajevo",
-    "longitude": 17.25,
-    "latitude": 45.14111
-  },
-  {
-    "name": "海地共和国",
-    "code": "ht",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ht.yaml",
-    "timezone": "America/Port-au-Prince",
-    "longitude": -72.68928,
-    "latitude": 19.44755
+    "code": "HR",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/HR.yaml",
+    "timezone": "Europe/Zagreb",
+    "longitude": 18.08778,
+    "latitude": 45.48861
   },
   {
     "name": "匈牙利",
-    "code": "hu",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/hu.yaml",
+    "code": "HU",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/HU.yaml",
     "timezone": "Europe/Budapest",
-    "longitude": 21.71671,
-    "latitude": 47.95539
+    "longitude": 16.62155,
+    "latitude": 47.23088
   },
   {
     "name": "印度尼西亚",
-    "code": "id",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/id.yaml",
+    "code": "ID",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/ID.yaml",
     "timezone": "Asia/Jakarta",
-    "longitude": 106.846,
-    "latitude": -6.20876
+    "longitude": 111.524,
+    "latitude": -7.6298
   },
   {
     "name": "爱尔兰",
-    "code": "ie",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ie.yaml",
+    "code": "IE",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/IE.yaml",
     "timezone": "Europe/Dublin",
-    "longitude": -6.92611,
-    "latitude": 52.84083
+    "longitude": -7.04752,
+    "latitude": 53.33948
   },
   {
     "name": "以色列",
-    "code": "il",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/il.yaml",
+    "code": "IL",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/IL.yaml",
     "timezone": "Asia/Jerusalem",
     "longitude": 34.7806,
     "latitude": 32.0809
   },
   {
-    "name": "马恩岛",
-    "code": "im",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/im.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
-  },
-  {
     "name": "印度",
-    "code": "in",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/in.yaml",
+    "code": "IN",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/IN.yaml",
     "timezone": "Asia/Kolkata",
-    "longitude": 75.85379,
-    "latitude": 30.91204
+    "longitude": 75.78781,
+    "latitude": 26.91962
   },
   {
     "name": "伊拉克",
-    "code": "iq",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/iq.yaml",
+    "code": "IQ",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/IQ.yaml",
     "timezone": "Asia/Baghdad",
-    "longitude": 44.0107,
-    "latitude": 36.1877
+    "longitude": 45.39065,
+    "latitude": 34.3482
   },
   {
     "name": "伊朗",
-    "code": "ir",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ir.yaml",
+    "code": "IR",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/IR.yaml",
     "timezone": "Asia/Tehran",
-    "longitude": 46.2919,
-    "latitude": 38.08
+    "longitude": 52.5311,
+    "latitude": 29.6103
   },
   {
     "name": "冰岛",
-    "code": "is",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/is.yaml",
+    "code": "IS",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/IS.yaml",
     "timezone": "Atlantic/Reykjavik",
     "longitude": -21.8988,
     "latitude": 64.143
   },
   {
     "name": "意大利",
-    "code": "it",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/it.yaml",
+    "code": "IT",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/IT.yaml",
     "timezone": "Europe/Rome",
-    "longitude": 8.94439,
-    "latitude": 44.40478
-  },
-  {
-    "name": "泽西岛",
-    "code": "je",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/je.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
+    "longitude": 16.86982,
+    "latitude": 41.12066
   },
   {
     "name": "牙买加",
-    "code": "jm",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/jm.yaml",
+    "code": "JM",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/JM.yaml",
     "timezone": "America/Jamaica",
     "longitude": -76.7932,
     "latitude": 18.0028
   },
   {
     "name": "约旦",
-    "code": "jo",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/jo.yaml",
+    "code": "JO",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/JO.yaml",
     "timezone": "Asia/Amman",
     "longitude": 35.9457,
     "latitude": 31.9566
   },
   {
     "name": "日本",
-    "code": "jp",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/jp.yaml",
+    "code": "JP",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/JP.yaml",
     "timezone": "Asia/Tokyo",
-    "longitude": 139.69171,
-    "latitude": 35.6895
+    "longitude": 138.38333,
+    "latitude": 34.98333
   },
   {
     "name": "肯尼亚",
-    "code": "ke",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ke.yaml",
+    "code": "KE",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/KE.yaml",
     "timezone": "Africa/Nairobi",
-    "longitude": 38.02396,
-    "latitude": 1.08262
+    "longitude": 36.96087,
+    "latitude": -1.14665
   },
   {
     "name": "吉尔吉斯斯坦",
-    "code": "kg",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/kg.yaml",
+    "code": "KG",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/KG.yaml",
     "timezone": "Asia/Bishkek",
     "longitude": 74.59,
     "latitude": 42.87
   },
   {
     "name": "柬埔寨",
-    "code": "kh",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/kh.yaml",
+    "code": "KH",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/KH.yaml",
     "timezone": "Asia/Phnom_Penh",
     "longitude": 104.916,
     "latitude": 11.5625
   },
   {
-    "name": "科摩罗",
-    "code": "km",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/km.yaml",
-    "timezone": "Indian/Comoro",
-    "longitude": 43.25506,
-    "latitude": -11.70216
-  },
-  {
-    "name": "圣基茨和尼维斯",
-    "code": "kn",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/kn.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
-  },
-  {
     "name": "韩国",
-    "code": "kr",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/kr.yaml",
+    "code": "KR",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/KR.yaml",
     "timezone": "Asia/Seoul",
     "longitude": 126.9784,
     "latitude": 37.566
   },
   {
     "name": "科威特",
-    "code": "kw",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/kw.yaml",
+    "code": "KW",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/KW.yaml",
     "timezone": "Asia/Kuwait",
-    "longitude": 47.658204,
-    "latitude": 29.337478
-  },
-  {
-    "name": "开曼群岛",
-    "code": "ky",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ky.yaml",
-    "timezone": "America/Cayman",
-    "longitude": -81.3674,
-    "latitude": 19.2869
+    "longitude": 48.0286,
+    "latitude": 29.3328
   },
   {
     "name": "哈萨克斯坦",
-    "code": "kz",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/kz.yaml",
+    "code": "KZ",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/KZ.yaml",
     "timezone": "Asia/Almaty",
-    "longitude": 73.1021,
-    "latitude": 49.8019
+    "longitude": 77.2381,
+    "latitude": 43.3023
   },
   {
     "name": "老挝",
-    "code": "la",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/la.yaml",
+    "code": "LA",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/LA.yaml",
     "timezone": "Asia/Vientiane",
-    "longitude": 102.602,
-    "latitude": 17.967
+    "longitude": 102.11667,
+    "latitude": 20.86667
   },
   {
     "name": "黎巴嫩",
-    "code": "lb",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/lb.yaml",
+    "code": "LB",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/LB.yaml",
     "timezone": "Asia/Beirut",
-    "longitude": 35.3729,
-    "latitude": 33.5571
+    "longitude": 35.5018,
+    "latitude": 33.8938
   },
   {
     "name": "圣卢西亚",
-    "code": "lc",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/lc.yaml",
+    "code": "LC",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/LC.yaml",
     "timezone": "America/St_Lucia",
     "longitude": -60.95,
     "latitude": 14.06667
   },
   {
-    "name": "列支敦士登",
-    "code": "li",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/li.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
-  },
-  {
     "name": "斯里兰卡",
-    "code": "lk",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/lk.yaml",
+    "code": "LK",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/LK.yaml",
     "timezone": "Asia/Colombo",
-    "longitude": 79.84868,
-    "latitude": 6.93548
-  },
-  {
-    "name": "利比里亚",
-    "code": "lr",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/lr.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
-  },
-  {
-    "name": "莱索托",
-    "code": "ls",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ls.yaml",
-    "timezone": "Africa/Maseru",
-    "longitude": 27.483277,
-    "latitude": -29.316609
+    "longitude": 80.78286,
+    "latitude": 6.97078
   },
   {
     "name": "立陶宛",
-    "code": "lt",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/lt.yaml",
+    "code": "LT",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/LT.yaml",
     "timezone": "Europe/Vilnius",
-    "longitude": 25.2798,
-    "latitude": 54.68916
+    "longitude": 23.98703,
+    "latitude": 54.01573
   },
   {
     "name": "卢森堡",
-    "code": "lu",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/lu.yaml",
-    "timezone": "Europe/Berlin",
-    "longitude": 6.52734,
-    "latitude": 49.96794
+    "code": "LU",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/LU.yaml",
+    "timezone": "Europe/Luxembourg",
+    "longitude": 6.13268,
+    "latitude": 49.60982
   },
   {
     "name": "拉脱维亚",
-    "code": "lv",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/lv.yaml",
+    "code": "LV",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/LV.yaml",
     "timezone": "Europe/Riga",
     "longitude": 24.10589,
     "latitude": 56.946
   },
   {
     "name": "利比亚",
-    "code": "ly",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ly.yaml",
+    "code": "LY",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/LY.yaml",
     "timezone": "Africa/Tripoli",
-    "longitude": 20.0686,
-    "latitude": 32.1149
+    "longitude": 13.1872,
+    "latitude": 32.8877
   },
   {
     "name": "摩洛哥",
-    "code": "ma",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ma.yaml",
+    "code": "MA",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/MA.yaml",
     "timezone": "Africa/Casablanca",
-    "longitude": -9.23718,
-    "latitude": 32.29939
+    "longitude": -6.5802,
+    "latitude": 34.26101
   },
   {
     "name": "摩纳哥",
-    "code": "mc",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/mc.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
+    "code": "MC",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/MC.yaml",
+    "timezone": "Europe/Paris",
+    "longitude": 7.26608,
+    "latitude": 43.70313
   },
   {
     "name": "摩尔多瓦",
-    "code": "md",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/md.yaml",
+    "code": "MD",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/MD.yaml",
     "timezone": "Europe/Chisinau",
-    "longitude": 27.92932,
-    "latitude": 47.76314
+    "longitude": 28.85938,
+    "latitude": 47.00902
   },
   {
     "name": "黑山",
-    "code": "me",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/me.yaml",
+    "code": "ME",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/ME.yaml",
     "timezone": "Europe/Podgorica",
-    "longitude": 19.12325,
-    "latitude": 43.15423
-  },
-  {
-    "name": "法属圣马丁",
-    "code": "mf",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/mf.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
+    "longitude": 18.8393,
+    "latitude": 42.2938
   },
   {
     "name": "马达加斯加",
-    "code": "mg",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/mg.yaml",
+    "code": "MG",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/MG.yaml",
     "timezone": "Indian/Antananarivo",
     "longitude": 47.536215,
     "latitude": -18.913536
   },
   {
     "name": "马其顿",
-    "code": "mk",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/mk.yaml",
+    "code": "MK",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/MK.yaml",
     "timezone": "Europe/Skopje",
     "longitude": 21.71444,
     "latitude": 42.13222
   },
   {
     "name": "马里",
-    "code": "ml",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ml.yaml",
+    "code": "ML",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/ML.yaml",
     "timezone": "Africa/Bamako",
     "longitude": -7.97522,
     "latitude": 12.6091
   },
   {
     "name": "缅甸",
-    "code": "mm",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/mm.yaml",
+    "code": "MM",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/MM.yaml",
     "timezone": "Asia/Yangon",
-    "longitude": 95.457,
-    "latitude": 17.6494
+    "longitude": 96.1561,
+    "latitude": 16.8053
   },
   {
     "name": "蒙古国",
-    "code": "mn",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/mn.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
+    "code": "MN",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/MN.yaml",
+    "timezone": "Asia/Ulaanbaatar",
+    "longitude": 106.883,
+    "latitude": 47.9077
   },
   {
     "name": "中国澳门",
-    "code": "mo",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/mo.yaml",
+    "code": "MO",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/MO.yaml",
     "timezone": "Asia/Shanghai",
     "longitude": 113.56778,
     "latitude": 22.27694
   },
   {
-    "name": "马提尼克",
-    "code": "mq",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/mq.yaml",
-    "timezone": "America/Martinique",
-    "longitude": -61.07418,
-    "latitude": 14.60365
-  },
-  {
-    "name": "毛里塔尼亚",
-    "code": "mr",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/mr.yaml",
-    "timezone": "Africa/Nouakchott",
-    "longitude": -15.9785,
-    "latitude": 18.08581
-  },
-  {
     "name": "马耳他",
-    "code": "mt",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/mt.yaml",
+    "code": "MT",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/MT.yaml",
     "timezone": "Europe/Malta",
     "longitude": 14.41561,
     "latitude": 35.95064
   },
   {
     "name": "毛里求斯",
-    "code": "mu",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/mu.yaml",
+    "code": "MU",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/MU.yaml",
     "timezone": "Indian/Mauritius",
     "longitude": 57.5007,
     "latitude": -20.162
   },
   {
     "name": "马尔代夫",
-    "code": "mv",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/mv.yaml",
+    "code": "MV",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/MV.yaml",
     "timezone": "Indian/Maldives",
-    "longitude": 73.5091,
-    "latitude": 4.17527
-  },
-  {
-    "name": "马拉维",
-    "code": "mw",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/mw.yaml",
-    "timezone": "Africa/Blantyre",
-    "longitude": 35.00854,
-    "latitude": -15.78499
+    "longitude": 73.50257,
+    "latitude": 1.83243
   },
   {
     "name": "墨西哥",
-    "code": "mx",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/mx.yaml",
-    "timezone": "America/Mexico_City",
-    "longitude": -99.12766,
-    "latitude": 19.42847
+    "code": "MX",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/MX.yaml",
+    "timezone": "America/Tijuana",
+    "longitude": -116.60071,
+    "latitude": 31.87149
   },
   {
     "name": "马来西亚",
-    "code": "my",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/my.yaml",
-    "timezone": "Asia/Kuching",
-    "longitude": 113.03333,
-    "latitude": 3.16667
+    "code": "MY",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/MY.yaml",
+    "timezone": "Asia/Kuala_Lumpur",
+    "longitude": 101.68653,
+    "latitude": 3.1412
   },
   {
     "name": "莫桑比克",
-    "code": "mz",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/mz.yaml",
+    "code": "MZ",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/MZ.yaml",
     "timezone": "Africa/Maputo",
-    "longitude": 34.83889,
-    "latitude": -19.84361
+    "longitude": 32.5832,
+    "latitude": -25.9655
   },
   {
     "name": "纳米比亚",
-    "code": "na",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/na.yaml",
+    "code": "NA",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/NA.yaml",
     "timezone": "Africa/Windhoek",
-    "longitude": 14.53333,
-    "latitude": -22.68333
-  },
-  {
-    "name": "新喀里多尼亚",
-    "code": "nc",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/nc.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
-  },
-  {
-    "name": "尼日尔共和国",
-    "code": "ne",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ne.yaml",
-    "timezone": "Africa/Niamey",
-    "longitude": 2.11252,
-    "latitude": 13.5127
+    "longitude": 17.0842,
+    "latitude": -22.5649
   },
   {
     "name": "尼日利亚",
-    "code": "ng",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ng.yaml",
+    "code": "NG",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/NG.yaml",
     "timezone": "Africa/Lagos",
-    "longitude": 3.39467,
-    "latitude": 6.45407
-  },
-  {
-    "name": "尼加拉瓜",
-    "code": "ni",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ni.yaml",
-    "timezone": "America/Managua",
-    "longitude": -86.2504,
-    "latitude": 12.1328
+    "longitude": 8.51672,
+    "latitude": 12.0001
   },
   {
     "name": "荷兰",
-    "code": "nl",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/nl.yaml",
+    "code": "NL",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/NL.yaml",
     "timezone": "Europe/Amsterdam",
-    "longitude": 4.88969,
-    "latitude": 52.37403
+    "longitude": 5.12222,
+    "latitude": 52.09083
   },
   {
     "name": "挪威",
-    "code": "no",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/no.yaml",
+    "code": "NO",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/NO.yaml",
     "timezone": "Europe/Oslo",
     "longitude": 10.74609,
     "latitude": 59.91273
   },
   {
     "name": "尼泊尔",
-    "code": "np",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/np.yaml",
+    "code": "NP",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/NP.yaml",
     "timezone": "Asia/Kathmandu",
-    "longitude": 84.8808,
-    "latitude": 27.0171
+    "longitude": 85.3206,
+    "latitude": 27.7017
   },
   {
     "name": "新西兰",
-    "code": "nz",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/nz.yaml",
+    "code": "NZ",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/NZ.yaml",
     "timezone": "Pacific/Auckland",
-    "longitude": 174.76349,
-    "latitude": -36.84853
+    "longitude": 175.28333,
+    "latitude": -37.78333
   },
   {
     "name": "阿曼",
-    "code": "om",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/om.yaml",
+    "code": "OM",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/OM.yaml",
     "timezone": "Asia/Muscat",
-    "longitude": 54.0924,
-    "latitude": 17.0151
+    "longitude": 58.4078,
+    "latitude": 23.5841
   },
   {
     "name": "巴拿马",
-    "code": "pa",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/pa.yaml",
+    "code": "PA",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/PA.yaml",
     "timezone": "America/Panama",
     "longitude": -79.51973,
     "latitude": 8.9936
   },
   {
     "name": "秘鲁",
-    "code": "pe",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/pe.yaml",
+    "code": "PE",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/PE.yaml",
     "timezone": "America/Lima",
-    "longitude": -77.02824,
-    "latitude": -12.04318
-  },
-  {
-    "name": "法属波利尼西亚",
-    "code": "pf",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/pf.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
-  },
-  {
-    "name": "巴布亚新几内亚",
-    "code": "pg",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/pg.yaml",
-    "timezone": "Pacific/Port_Moresby",
-    "longitude": 147.149,
-    "latitude": -9.479
+    "longitude": -78.59373,
+    "latitude": -9.07508
   },
   {
     "name": "菲律宾",
-    "code": "ph",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ph.yaml",
+    "code": "PH",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/PH.yaml",
     "timezone": "Asia/Manila",
-    "longitude": 123.30769,
-    "latitude": 9.30646
+    "longitude": 121.72285,
+    "latitude": 17.61577
   },
   {
     "name": "巴基斯坦",
-    "code": "pk",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/pk.yaml",
+    "code": "PK",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/PK.yaml",
     "timezone": "Asia/Karachi",
-    "longitude": 74.35071,
-    "latitude": 31.558
+    "longitude": 67.0104,
+    "latitude": 24.8608
   },
   {
     "name": "波兰",
-    "code": "pl",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/pl.yaml",
-    "timezone": "Europe/Prague",
-    "longitude": 18.67078,
-    "latitude": 49.67763
+    "code": "PL",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/PL.yaml",
+    "timezone": "Europe/Warsaw",
+    "longitude": 21.01178,
+    "latitude": 52.22977
   },
   {
     "name": "波多黎各",
-    "code": "pr",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/pr.yaml",
+    "code": "PR",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/PR.yaml",
     "timezone": "America/Puerto_Rico",
-    "longitude": -66.10572,
-    "latitude": 18.46633
+    "longitude": -66.8499,
+    "latitude": 18.03496
   },
   {
     "name": "巴勒斯坦",
-    "code": "ps",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ps.yaml",
+    "code": "PS",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/PS.yaml",
     "timezone": "Asia/Hebron",
-    "longitude": 35.09443,
-    "latitude": 31.4459
+    "longitude": 35.0938,
+    "latitude": 31.5294
   },
   {
     "name": "葡萄牙",
-    "code": "pt",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/pt.yaml",
+    "code": "PT",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/PT.yaml",
     "timezone": "Europe/Lisbon",
     "longitude": -9.1498,
     "latitude": 38.72509
   },
   {
     "name": "帕劳",
-    "code": "pw",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/pw.yaml",
+    "code": "PW",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/PW.yaml",
     "timezone": "",
     "longitude": "",
     "latitude": ""
   },
   {
     "name": "巴拉圭",
-    "code": "py",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/py.yaml",
+    "code": "PY",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/PY.yaml",
     "timezone": "America/Asuncion",
-    "longitude": -56.8395,
-    "latitude": -27.3842
+    "longitude": -57.647,
+    "latitude": -25.2865
   },
   {
     "name": "卡塔尔",
-    "code": "qa",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/qa.yaml",
+    "code": "QA",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/QA.yaml",
     "timezone": "Asia/Qatar",
     "longitude": 51.531,
     "latitude": 25.2854
   },
   {
     "name": "留尼汪",
-    "code": "re",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/re.yaml",
+    "code": "RE",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/RE.yaml",
     "timezone": "Indian/Reunion",
-    "longitude": 55.47811,
-    "latitude": -21.3393
+    "longitude": 55.4504,
+    "latitude": -20.88231
   },
   {
     "name": "罗马尼亚",
-    "code": "ro",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ro.yaml",
+    "code": "RO",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/RO.yaml",
     "timezone": "Europe/Bucharest",
-    "longitude": 23.36667,
-    "latitude": 45.41667
+    "longitude": 21.22571,
+    "latitude": 45.75372
   },
   {
     "name": "塞尔维亚",
-    "code": "rs",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/rs.yaml",
+    "code": "RS",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/RS.yaml",
     "timezone": "Europe/Belgrade",
-    "longitude": 19.8362,
-    "latitude": 45.25
+    "longitude": 21.58806,
+    "latitude": 43.23417
   },
   {
     "name": "俄罗斯",
-    "code": "ru",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ru.yaml",
+    "code": "RU",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/RU.yaml",
     "timezone": "Europe/Moscow",
-    "longitude": 41.9734,
-    "latitude": 45.0428
+    "longitude": 39.72328,
+    "latitude": 47.23135
   },
   {
     "name": "卢旺达",
-    "code": "rw",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/rw.yaml",
+    "code": "RW",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/RW.yaml",
     "timezone": "Africa/Kigali",
-    "longitude": 29.63497,
-    "latitude": -1.49984
+    "longitude": 30.0588,
+    "latitude": -1.94995
   },
   {
     "name": "沙特阿拉伯",
-    "code": "sa",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/sa.yaml",
+    "code": "SA",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/SA.yaml",
     "timezone": "Asia/Riyadh",
-    "longitude": 39.1862,
-    "latitude": 21.4901
-  },
-  {
-    "name": "所罗门群岛",
-    "code": "sb",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/sb.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
-  },
-  {
-    "name": "塞舌尔共和国",
-    "code": "sc",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/sc.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
+    "longitude": 42.7333,
+    "latitude": 18.3
   },
   {
     "name": "苏丹",
-    "code": "sd",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/sd.yaml",
+    "code": "SD",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/SD.yaml",
     "timezone": "Africa/Khartoum",
-    "longitude": 37.21644,
-    "latitude": 19.61745
+    "longitude": 32.53247,
+    "latitude": 15.55174
   },
   {
     "name": "瑞典",
-    "code": "se",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/se.yaml",
+    "code": "SE",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/SE.yaml",
     "timezone": "Europe/Stockholm",
-    "longitude": 18.06871,
-    "latitude": 59.32938
+    "longitude": 13.00073,
+    "latitude": 55.60587
   },
   {
     "name": "新加坡",
-    "code": "sg",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/sg.yaml",
+    "code": "SG",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/SG.yaml",
     "timezone": "Asia/Singapore",
     "longitude": 103.850281,
     "latitude": 1.289987
   },
   {
     "name": "斯洛文尼亚",
-    "code": "si",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/si.yaml",
+    "code": "SI",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/SI.yaml",
     "timezone": "Europe/Ljubljana",
     "longitude": 14.5051,
     "latitude": 46.0511
   },
   {
     "name": "斯洛伐克",
-    "code": "sk",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/sk.yaml",
+    "code": "SK",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/SK.yaml",
     "timezone": "Europe/Bratislava",
-    "longitude": 17.58723,
-    "latitude": 48.37741
-  },
-  {
-    "name": "塞拉利昂",
-    "code": "sl",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/sl.yaml",
-    "timezone": "Africa/Freetown",
-    "longitude": -10.9714,
-    "latitude": 8.64387
+    "longitude": 18.6275,
+    "latitude": 48.77446
   },
   {
     "name": "塞内加尔",
-    "code": "sn",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/sn.yaml",
+    "code": "SN",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/SN.yaml",
     "timezone": "Africa/Dakar",
-    "longitude": -17.4441,
-    "latitude": 14.6937
-  },
-  {
-    "name": "索马里",
-    "code": "so",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/so.yaml",
-    "timezone": "Africa/Mogadishu",
-    "longitude": 44.065,
-    "latitude": 9.56
-  },
-  {
-    "name": "苏里南",
-    "code": "sr",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/sr.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
+    "longitude": -16.926,
+    "latitude": 14.7894
   },
   {
     "name": "南苏丹",
-    "code": "ss",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ss.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
-  },
-  {
-    "name": "圣多美和普林西比",
-    "code": "st",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/st.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
+    "code": "SS",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/SS.yaml",
+    "timezone": "Africa/Juba",
+    "longitude": 31.5825,
+    "latitude": 4.85386
   },
   {
     "name": "萨尔瓦多",
-    "code": "sv",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/sv.yaml",
+    "code": "SV",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/SV.yaml",
     "timezone": "America/El_Salvador",
-    "longitude": -89.7242,
-    "latitude": 13.7189
-  },
-  {
-    "name": "荷属圣马丁",
-    "code": "sx",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/sx.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
+    "longitude": -89.1872,
+    "latitude": 13.6894
   },
   {
     "name": "叙利亚",
-    "code": "sy",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/sy.yaml",
+    "code": "SY",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/SY.yaml",
     "timezone": "Asia/Damascus",
-    "longitude": 37.161403,
-    "latitude": 36.200736
-  },
-  {
-    "name": "斯威士兰",
-    "code": "sz",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/sz.yaml",
-    "timezone": "Africa/Mbabane",
-    "longitude": 31.13333,
-    "latitude": -26.31667
+    "longitude": 36.2912,
+    "latitude": 33.510485
   },
   {
     "name": "多哥",
-    "code": "tg",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/tg.yaml",
+    "code": "TG",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/TG.yaml",
     "timezone": "Africa/Lome",
     "longitude": 1.21965,
     "latitude": 6.12956
   },
   {
     "name": "泰国",
-    "code": "th",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/th.yaml",
+    "code": "TH",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/TH.yaml",
     "timezone": "Asia/Bangkok",
-    "longitude": 100.47668,
-    "latitude": 7.00836
+    "longitude": 98.98468,
+    "latitude": 18.79038
   },
   {
     "name": "塔吉克斯坦",
-    "code": "tj",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/tj.yaml",
+    "code": "TJ",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/TJ.yaml",
     "timezone": "Asia/Dushanbe",
     "longitude": 68.78,
     "latitude": 38.5367
   },
   {
-    "name": "托克劳",
-    "code": "tk",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/tk.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
-  },
-  {
     "name": "东帝汶",
-    "code": "tl",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/tl.yaml",
+    "code": "TL",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/TL.yaml",
     "timezone": "",
     "longitude": "",
     "latitude": ""
   },
   {
     "name": "土库曼斯坦",
-    "code": "tm",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/tm.yaml",
+    "code": "TM",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/TM.yaml",
     "timezone": "Asia/Ashgabat",
-    "longitude": 58.3833,
-    "latitude": 37.95
+    "longitude": 59.9666,
+    "latitude": 41.8363
   },
   {
     "name": "突尼斯",
-    "code": "tn",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/tn.yaml",
+    "code": "TN",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/TN.yaml",
     "timezone": "Africa/Tunis",
-    "longitude": 10.63699,
-    "latitude": 35.82539
+    "longitude": 8.70486,
+    "latitude": 36.17424
   },
   {
     "name": "土耳其",
-    "code": "tr",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/tr.yaml",
+    "code": "TR",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/TR.yaml",
     "timezone": "Europe/Istanbul",
     "longitude": 28.94966,
     "latitude": 41.01384
   },
   {
     "name": "特立尼达和多巴哥",
-    "code": "tt",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/tt.yaml",
+    "code": "TT",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/TT.yaml",
     "timezone": "America/Port_of_Spain",
     "longitude": -61.41667,
     "latitude": 10.51667
   },
   {
     "name": "中国台湾",
-    "code": "tw",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/tw.yaml",
+    "code": "TW",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/TW.yaml",
     "timezone": "Asia/Taipei",
     "longitude": 121.526,
     "latitude": 25.0531
   },
   {
-    "name": "坦桑尼亚",
-    "code": "tz",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/tz.yaml",
-    "timezone": "Africa/Dar_es_Salaam",
-    "longitude": 39.2695,
-    "latitude": -6.82349
-  },
-  {
     "name": "乌克兰",
-    "code": "ua",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ua.yaml",
-    "timezone": "Europe/Moscow",
-    "longitude": 38.52837,
-    "latitude": 47.56072
+    "code": "UA",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/UA.yaml",
+    "timezone": "Europe/Kyiv",
+    "longitude": 30.63333,
+    "latitude": 50.43333
   },
   {
     "name": "乌干达",
-    "code": "ug",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ug.yaml",
+    "code": "UG",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/UG.yaml",
     "timezone": "Africa/Kampala",
     "longitude": 32.5816,
     "latitude": 0.315169
   },
   {
     "name": "美国",
-    "code": "us",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/us.yaml",
-    "timezone": "America/Chicago",
-    "longitude": -94.57857,
-    "latitude": 39.09973
+    "code": "US",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/US.yaml",
+    "timezone": "America/New_York",
+    "longitude": -80.64952,
+    "latitude": 41.09978
   },
   {
     "name": "乌拉圭",
-    "code": "uy",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/uy.yaml",
+    "code": "UY",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/UY.yaml",
     "timezone": "America/Montevideo",
     "longitude": -56.18816,
     "latitude": -34.90328
   },
   {
     "name": "乌兹别克斯坦",
-    "code": "uz",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/uz.yaml",
+    "code": "UZ",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/UZ.yaml",
     "timezone": "Asia/Tashkent",
     "longitude": 69.2163,
     "latitude": 41.2646
   },
   {
-    "name": "梵蒂冈",
-    "code": "va",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/va.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
-  },
-  {
-    "name": "圣文森特岛",
-    "code": "vc",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/vc.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
-  },
-  {
     "name": "委内瑞拉",
-    "code": "ve",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ve.yaml",
+    "code": "VE",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/VE.yaml",
     "timezone": "America/Caracas",
-    "longitude": -71.16922,
-    "latitude": 8.57899
-  },
-  {
-    "name": "英属维尔京群岛",
-    "code": "vg",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/vg.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
-  },
-  {
-    "name": "美属维尔京群岛",
-    "code": "vi",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/vi.yaml",
-    "timezone": "America/St_Thomas",
-    "longitude": -64.74698,
-    "latitude": 17.72751
+    "longitude": -69.6762,
+    "latitude": 11.4139
   },
   {
     "name": "越南",
-    "code": "vn",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/vn.yaml",
+    "code": "VN",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/VN.yaml",
     "timezone": "Asia/Ho_Chi_Minh",
     "longitude": 106.63,
     "latitude": 10.8231
   },
   {
-    "name": "瓦努阿图",
-    "code": "vu",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/vu.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
-  },
-  {
-    "name": "美属维尔京群岛",
-    "code": "wf",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/wf.yaml",
-    "timezone": "",
-    "longitude": "",
-    "latitude": ""
-  },
-  {
-    "name": "科索沃",
-    "code": "xk",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/xk.yaml",
-    "timezone": "Europe/Belgrade",
-    "longitude": 21.166668,
-    "latitude": 42.672595
-  },
-  {
     "name": "也门",
-    "code": "ye",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/ye.yaml",
+    "code": "YE",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/YE.yaml",
     "timezone": "Asia/Aden",
-    "longitude": 44.02091,
-    "latitude": 13.57952
-  },
-  {
-    "name": "马约特",
-    "code": "yt",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/yt.yaml",
-    "timezone": "Indian/Mayotte",
-    "longitude": 45.22878,
-    "latitude": -12.78234
+    "longitude": 47.5612,
+    "latitude": 14.27042
   },
   {
     "name": "南非",
-    "code": "za",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/za.yaml",
+    "code": "ZA",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/ZA.yaml",
     "timezone": "Africa/Johannesburg",
-    "longitude": 22.46099,
-    "latitude": -33.962687
-  },
-  {
-    "name": "赞比亚共和国",
-    "code": "zm",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/zm.yaml",
-    "timezone": "Africa/Lusaka",
-    "longitude": 28.287106,
-    "latitude": -15.406477
+    "longitude": 28.04355,
+    "latitude": -26.20225
   },
   {
     "name": "津巴布韦",
-    "code": "zw",
-    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys/zw.yaml",
+    "code": "ZW",
+    "url": "https://raw.githubusercontent.com/heisiyyds999/clash-conf/refs/heads/master/proxys-b/ZW.yaml",
     "timezone": "Africa/Harare",
-    "longitude": 31.07555,
-    "latitude": -18.01274
+    "longitude": 28.58333,
+    "latitude": -20.15
   }
 ]
