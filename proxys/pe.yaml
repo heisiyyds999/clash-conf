@@ -13,10 +13,10 @@ proxies:
 
   - name: 动态住宅
     type: socks5
-    server: 17083eb925263312.gtz.as.ipidea.online
+    server: 45fc8d994ebba90e.fkz.as.ipidea.online
     port: 2333
-    username: NF321321-zone-custom-region-pe
-    password: NF321321
+    username: NF888666-zone-custom-region-pe
+    password: NF888666
 proxy-groups:
   - name: output
     type: select
